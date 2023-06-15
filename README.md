@@ -73,7 +73,7 @@ which makes the data useful for analysis.
 * Created KPI for to show Title winner team, Orange & Purple Cap holder player and Tournament 6's and 4's in every year.
 * Created Slicer for to change every year and Batting and Bowling stats for every bowlers and batsman. 
 * Created two Horizontal bar charts for to analysis Matches win by venue and Total wins by a team for a season.   
-* Created two Donut charts for to analysis Matches Win based on toss dicision and Matches win by Result Type. 
+* Created two Donut charts for to analysis Matches Win based on toss decision and Matches win by Result Type. 
 
 # Conclusion 
 This dashboard has intended on analyzing and visualizing the results of the Indian Premier League matches during the year 2008-2022, 
