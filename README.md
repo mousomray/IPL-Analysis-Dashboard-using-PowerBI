@@ -29,8 +29,8 @@ problem statements
 * Conclusion
 
 # Data Importing
-The data was present in ipl_database and loaded into powerbi by fetching required rows and columns 
-through postgre sql.
+The data was present in ipl_database and loaded into PowerBI after fetching required rows and columns 
+through Postgre SQL.
 
 # Data Cleaning 
 After importing data into PowerBI performed various activities in Power Query Editor like, removing duplicates, removing missing values, rectified spelling mistakes and transforming the data into a format that can be easily analyzed.
